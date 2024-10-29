@@ -1,0 +1,11 @@
+code,label
+"print('Hello, World!')",0
+"x = 10 / 0",1
+"for i in range(5): print(i)",0
+"password = '12345'",1
+"import os\nos.system('rm -rf /')",1
+"def add(a, b):\n    return a + b",0
+"y = [1, 2, 3\nz = 4",1
+"with open('file.txt', 'r') as f:\n    data = f.read()",0
+"x = 'hello'\nx.append(' world')",1
+"def greet(name):\n    print('Hello ' + name)",0
