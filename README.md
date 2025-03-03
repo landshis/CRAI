@@ -6,5 +6,3 @@ An AI-powered tool for code review that uses machine learning and static analysi
 - **Machine Learning-Based Issue Detection**: Identifies common code issues using an ML model.
 - **Static Analysis Integration**: Uses tools like `pylint` and `bandit` to detect potential security and style issues.
 - **API-Based Interface**: Accessible through an HTTP API, making it easy to integrate with other tools or CI/CD pipelines.
-
-## Project Structure
